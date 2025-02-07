@@ -70,18 +70,18 @@ Botón de "Iniciar Sesión"
 Opción de registro para nuevos usuarios
 Logo principal de la radio
 
-##Pantalla Principal (Home):
+## Pantalla Principal (Home):
 
-Reproductor de streaming integrado
+- Reproductor de streaming integrado
 Menú de navegación con las siguientes funcionalidades:
 
-Música: "Los mejores de los tiempos"
-Noticias: "Sistema de información"
-Deporte: "Radio Viva la única"
-Integración con WhatsApp
+- Música: "Los mejores de los tiempos"
+- Noticias: "Sistema de información"
+- Deporte: "Radio Viva la única"
+- Integración con WhatsApp
 
 
-##Banner de bienvenida
+## Banner de bienvenida
 URL del sitio web (radioviva911.com)
 
 
@@ -126,8 +126,8 @@ El sistema se compone de los siguientes módulos:
 
 ## 📌 Referencia Visual de la arquitectura
 
-(![Captura de pantalla 2025-02-06 003407](https://github.com/user-attachments/assets/01650cfc-727f-4aa4-9d48-444ef4839fff)
-)
+![Captura de pantalla 2025-02-06 003407](https://github.com/user-attachments/assets/01650cfc-727f-4aa4-9d48-444ef4839fff)
+
 
 ## 🛠️ Tecnologías Utilizadas
 
